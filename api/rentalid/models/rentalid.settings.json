@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rentalids",
+  "info": {
+    "name": "rentalid"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "timestamps": true,
+    "increments": true,
+    "comment": ""
+  },
+  "attributes": {}
+}
